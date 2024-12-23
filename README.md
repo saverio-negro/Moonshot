@@ -2,6 +2,8 @@
 
 #### All NASA’s space missions at hand.
 
+<img src="./Images/moonshot.gif" width="25%" height="25%"/>
+
 ### Description
 
 #### Moonshot is a simple app that embeds all NASA’s Apollo missions so far. It gives you a description of each mission in a dynamic grid, and you can tap on any of them to be shown a simple description.
