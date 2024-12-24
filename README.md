@@ -2,7 +2,7 @@
 
 #### All NASA’s space missions at hand.
 
-<img src="./Images/moonshot.gif" width="25%" height="25%"/>
+<img src="./Images/Moonshot.gif" width="25%" height="25%"/>
 
 ### Description
 
